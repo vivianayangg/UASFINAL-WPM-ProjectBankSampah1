@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286072265459",
+    "project_id": "bangsampah-7a4e2",
+    "storage_bucket": "bangsampah-7a4e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286072265459:android:a61bafd44dd49737a97586",
+        "android_client_info": {
+          "package_name": "com.azhar.banksampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286072265459-nmn4nspd5o770irus7666b9j2afpst27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi15o_cQ6UlZQCMEd-BnfCaFP_wV_LhAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286072265459-nmn4nspd5o770irus7666b9j2afpst27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
